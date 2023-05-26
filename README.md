@@ -30,5 +30,6 @@
 
 #Finally, the code outside the loop reads an integer t from the input, which represents the number of test cases, and calls the minimum_players_shot function with t as the argument.
 
-
+![Capture](https://github.com/kuldeepjeengar/simplyfi_test/assets/123317219/7fff492c-ef80-4bcc-90ce-80356d3fc745)
+![2](https://github.com/kuldeepjeengar/simplyfi_test/assets/123317219/542ccc13-9812-4726-aef5-327ac8ee20e2)
 
